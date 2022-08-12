@@ -9,7 +9,7 @@ A clone of popular website youtube.
 
 * Also user can watch any video and can see the latest comments on that video.
 
-* Live Link : https://youtube-clone-akshit.netlify.app/
+* Live Link : https://youtube-clone-akshit3010.netlify.app/
 
 ## Screenshots :
 * Homepage
